@@ -1,0 +1,17 @@
+{
+  "name": "harmony-local",
+  "pluginName": "Local files",
+  "pluginColor": "#666666",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "music-metadata": "^0.8.7",
+    "recursive-readdir": "^2.2.1"
+  },
+  "author": "Vincent L",
+  "license": "ISC"
+}
